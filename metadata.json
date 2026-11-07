@@ -1,0 +1,6 @@
+{
+  "name": "Kurdish Arabic Academy — ئەکادیمیای فێربوونی عەرەبی",
+  "description": "An intelligent, full-stack Arabic learning platform tailored specifically for Kurdish speakers, with 24/7 AI conversation tutor, dual-track Iraqi & Fusha curricula, smart error correction, real-life simulator, and Google Chat integration.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
